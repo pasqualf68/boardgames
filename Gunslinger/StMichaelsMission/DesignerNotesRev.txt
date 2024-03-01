@@ -1,0 +1,78 @@
+EMAIL FROM TOM CUNDIFF TO ALEX HENDERSON:
+
+Howdy,  
+ 
+The ladders C2 and K2 reach from the 2nd Floor Roof to the 3rd Floor 
+Bell Tower.  They are a continuation of the ladders from the 1st to 2nd 
+floors.  There is no door in the shaft tower.  Consider that the Bell 
+Tower at that elevation is something like an old-fashioned watch tower.  
+You have to climb over the "top" of the Bell Tower rampart to drop down 
+into the bell tower from the outside.  
+ 
+For instance:
+
+Your character is on the 2nd Floor roof.  You have to execute two Climb 
+actions to reach the 3rd Floor Elevation.  In order to enter the Bell 
+Tower you will have to execute one more Climb action to reach the same 
+elevation as the Bell Tower Rampart.  Then you execute an Advance action 
+to cross the Rampart Wall into hex D2* or H2*/3rd Floor.  When you do 
+that, you automatically drop one elevation down to the 3rd Floor because 
+the Rampart Wall is higher than the 3rd Floor. Well, floor.  Any 
+upright character in hexes D2*, D3, E2, E3, F3, G2, G3, H2*, & H3 benefits by 
+automatically earning Head Status if LOS from a character crosses the 
+Rampart Walls.  Any Leg hit, obtained from a shot whose LOS crosses the 
+Rampart Walls will be ignored (I intended to write rules for this but 
+never got around to it).  The small brown squares that are part of the 
+Rampart Wall actually are posts that support the Bell Tower Roof.  If 
+LOS crosses these posts, LOS is blocked.  A character that is prone, on 
+the floor of the 3rd Floor Bell Tower will have to execute Head Out/Back 
+to place his head counter across the Rampart Wall or he will have no 
+LOS outside of the interior of the 3rd Floor Bell Tower.  The area marked 
+Open Space is the area where the bell pulls are located.  A Head 
+Counter can be placed in this area, but the only place that can be seen is 
+F2/Ground Elevation SM2.  
+ 
+            Now, the 2nd Floor Roof (the area in Grey on the 2nd Floor 
+card) can only be accessed by going to the Bell Tower and climbing down 
+the exterior ladders back down to the 2nd Floor Roof.  It's important 
+to note that the 2nd Floor card actually represents the interior 2nd 
+Floor of the Bell Tower and the 2nd Floor Roof on the same card.  The 
+interior of old Mission is a very high ceiling.  There is no interior 2nd 
+Floor, except for inside the Bell Tower Shaft.  
+
+            The 2nd Floor Roof has some interesting features.  The 
+light grey border around it is actually a stone wall or rampart as 
+described above.  However, it is not as high as the "Rampart" described on the 
+3rd Floor Bell Tower.  The 2nd Floor is surrounded by a short stone 
+wall which provides the same kind of cover as any other obstacle.  A 
+character that is "Down" behind the wall has to put his head out in order to 
+see over the wall.  Note also the Strong Dark Grey front to the Mission 
+at that level.  This is a tall stone wall that reaches all the way to 
+the 3rd Floor.  LOS may not cross that wall unless a character is at a 
+higher elevation than the 3rd Floor.  No character may place a Head 
+Counter across that wall from the 2nd Floor Roof.
+ 
+We now go to Saint Michael's Rectory.  Note the Roof there.  There's a 
+line that identifies the peak of that roof.  LOS may cross that peak 
+IF:
+
+1. Any character in a hex adjacent to the peak line and is Down must 
+place a head counter across the peak line in order to obtain LOS, just as 
+if the Peak Line is a window obstacle.  
+
+2. Any character that is one hex away (not adjacent, but having one hex 
+between him and the Peak (for instance F10/SM1 1st Floor Roof/2nd Floor 
+Elevation) obtains automatic Head Counter Status for any shot at him 
+that crosses the Peak Line (Any LEG shot automatically misses).
+
+Hope that helps.  It's a rather long winded explanation.  Oh, by the 
+way, the Wall around the cemetary on board SM3 is a higher wall than an 
+obstacle.  It confers the same advantages as described above.  Any 
+character on the other side of the wall, where LOs crosses the wall, 
+benefits from having automatic Head Status and all Leg Hits are ignored.  A 
+down character next to that wall must place a head counter in order to 
+have LOS across the wall.
+
+Take Care,
+Tom 
+
